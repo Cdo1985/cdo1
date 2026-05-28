@@ -1,0 +1,6 @@
+{
+  "name": "Agent Gateway",
+  "description": "An interactive AI Control Plane dashboard providing semantic memory waxing and execution trace washing for AI Agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
